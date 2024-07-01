@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyuli0520&label=Profile%20views&color=0e75b6&style=flat" alt="hyuli0520" /> </p>
 
-- 🔭 I’m currently working on [life-game](https://github.com/hyuli0520/my-life-game)
+- 🔭 I’m currently working on [2024GameDevProject](https://github.com/hyuli0520/2024GameDevProject)
 
 - 📫 How to reach me **minhyeogjeon945@gmail.com**
 
